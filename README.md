@@ -1,2 +1,2 @@
-# GETMERGE
+# GITMERGE
 learn git merge command
